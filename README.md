@@ -1,6 +1,6 @@
 ## RetinaNet-Text-Detection
 
-**Work in progress (Fork of [wondervictor/RetinaNet](github.com/wondervictor/RetinaNet))**
+**Work in progress (Fork of [wondervictor/RetinaNet](https://github.com/wondervictor/RetinaNet))**
 
 RetinaNet for `Text Detection` implemented with Pure PyTorch
 
